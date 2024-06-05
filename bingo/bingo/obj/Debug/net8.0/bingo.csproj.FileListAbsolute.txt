@@ -1,0 +1,14 @@
+C:\Users\hernadi.balazs\source\repos\Bingo\bingo\bingo\bin\Debug\net8.0\bingo.exe
+C:\Users\hernadi.balazs\source\repos\Bingo\bingo\bingo\bin\Debug\net8.0\bingo.deps.json
+C:\Users\hernadi.balazs\source\repos\Bingo\bingo\bingo\bin\Debug\net8.0\bingo.runtimeconfig.json
+C:\Users\hernadi.balazs\source\repos\Bingo\bingo\bingo\bin\Debug\net8.0\bingo.dll
+C:\Users\hernadi.balazs\source\repos\Bingo\bingo\bingo\bin\Debug\net8.0\bingo.pdb
+C:\Users\hernadi.balazs\source\repos\Bingo\bingo\bingo\obj\Debug\net8.0\bingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hernadi.balazs\source\repos\Bingo\bingo\bingo\obj\Debug\net8.0\bingo.AssemblyInfoInputs.cache
+C:\Users\hernadi.balazs\source\repos\Bingo\bingo\bingo\obj\Debug\net8.0\bingo.AssemblyInfo.cs
+C:\Users\hernadi.balazs\source\repos\Bingo\bingo\bingo\obj\Debug\net8.0\bingo.csproj.CoreCompileInputs.cache
+C:\Users\hernadi.balazs\source\repos\Bingo\bingo\bingo\obj\Debug\net8.0\bingo.dll
+C:\Users\hernadi.balazs\source\repos\Bingo\bingo\bingo\obj\Debug\net8.0\refint\bingo.dll
+C:\Users\hernadi.balazs\source\repos\Bingo\bingo\bingo\obj\Debug\net8.0\bingo.pdb
+C:\Users\hernadi.balazs\source\repos\Bingo\bingo\bingo\obj\Debug\net8.0\bingo.genruntimeconfig.cache
+C:\Users\hernadi.balazs\source\repos\Bingo\bingo\bingo\obj\Debug\net8.0\ref\bingo.dll
